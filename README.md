@@ -19,8 +19,8 @@ A simple **weather web application** built using **HTML, CSS, and JavaScript**. 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/royxlead/weather-app.git
-   cd weather-app
+   git clone https://github.com/royxlead/weather-app-html.git
+   cd weather-app-html
    ```
 
 2. Open `index.html` in your browser.
